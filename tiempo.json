@@ -1,0 +1,172 @@
+{
+    "Headline": {
+      "EffectiveDate": "2021-07-10T08:00:00+02:00",
+      "EffectiveEpochDate": 1625896800,
+      "Severity": 4,
+      "Text": "Agradable este fin de semana",
+      "Category": "mild",
+      "EndDate": null,
+      "EndEpochDate": null,
+      "MobileLink": "http://www.accuweather.com/es/es/terrassa/307302/extended-weather-forecast/307302?unit=c",
+      "Link": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?unit=c"
+    },
+    "DailyForecasts": [
+      {
+        "Date": "2021-07-06T07:00:00+02:00",
+        "EpochDate": 1625547600,
+        "Temperature": {
+          "Minimum": {
+            "Value": 21.4,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 26.8,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 2,
+          "IconPhrase": "Mayormente soleado",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 41,
+          "IconPhrase": "Parcialmente nublado con tormentas eléctricas",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=1&unit=c",
+        "Link": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=1&unit=c"
+      },
+      {
+        "Date": "2021-07-07T07:00:00+02:00",
+        "EpochDate": 1625634000,
+        "Temperature": {
+          "Minimum": {
+            "Value": 19.2,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 25.2,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 2,
+          "IconPhrase": "Mayormente soleado",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Parcialmente nublado",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=2&unit=c",
+        "Link": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=2&unit=c"
+      },
+      {
+        "Date": "2021-07-08T07:00:00+02:00",
+        "EpochDate": 1625720400,
+        "Temperature": {
+          "Minimum": {
+            "Value": 19.3,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 24.4,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 3,
+          "IconPhrase": "Parcialmente soleado",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mayormente despejado",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=3&unit=c",
+        "Link": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=3&unit=c"
+      },
+      {
+        "Date": "2021-07-09T07:00:00+02:00",
+        "EpochDate": 1625806800,
+        "Temperature": {
+          "Minimum": {
+            "Value": 18.5,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 25.7,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 1,
+          "IconPhrase": "Soleado",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 33,
+          "IconPhrase": "Despejado",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=4&unit=c",
+        "Link": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=4&unit=c"
+      },
+      {
+        "Date": "2021-07-10T07:00:00+02:00",
+        "EpochDate": 1625893200,
+        "Temperature": {
+          "Minimum": {
+            "Value": 20.3,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 27.6,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 1,
+          "IconPhrase": "Soleado",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 33,
+          "IconPhrase": "Despejado",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=5&unit=c",
+        "Link": "http://www.accuweather.com/es/es/terrassa/307302/daily-weather-forecast/307302?day=5&unit=c"
+      }
+    ]
+  }

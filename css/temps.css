@@ -1,0 +1,94 @@
+section {
+width: 160px;
+height: 200px;
+background: rgb(115, 166, 196);
+border: solid 1px rgb(199, 233, 247);
+margin-top: 10px;
+}
+
+div {
+      
+        width: 50px;
+        height: 50px;
+        border: solid 0px  rgb(67, 144, 158);
+        margin-left: 10px;
+        margin-top: 20px;
+    margin-right: 20px;
+}
+h2 {
+font-size: medium;    
+margin-left: 10px;
+color: rgb(176, 219, 56);
+
+}
+
+
+
+
+div {
+    display: inline;
+}
+ article {
+  width: 1000px;
+  height: ;
+
+ }
+
+span {
+    margin-left: 10px;
+    margin-top: 20px;
+
+
+}
+
+.container {
+
+    display: flex;
+    flex-wrap: wrap;
+    background:"images/icons/fondo.jpg";
+
+}
+
+.icon {
+    height: 4em;
+    margin-left: 5px;
+    margin-top: 10px;
+    
+}
+.titol{
+    text-align:center;
+    text-decoration: underline;
+    color: #fff;
+    font-size:0.5em;
+    margin-left:30px ;
+}
+
+.fecha{
+    text-align:left;
+   color: #fff;
+   font-size:0.8em;
+   margin-top: 40px;
+}
+
+.cap {
+font-family:Georgia, 'Times New Roman', Times, serif ;
+color: #fff;
+font-size: 0.8em;
+
+}
+.tiempo1 {
+    color: rgb(214, 80, 80);
+    font-size:0.8em;
+}
+
+.tiempo2 {
+    color:#fff;
+    font-size:0.8em;
+}
+.test{
+    width: 100px;
+}
+#fondo {
+    background:"images/icons/fondo.jpg";
+
+}
